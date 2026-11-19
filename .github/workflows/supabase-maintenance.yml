@@ -2,7 +2,7 @@ name: Pilot Companion Supabase Maintenance
 
 on:
   schedule:
-    - cron: "7,37 * * * *"
+    - cron: "46 16 * * *"
 
   workflow_dispatch:
 
